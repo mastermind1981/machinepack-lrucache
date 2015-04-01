@@ -21,6 +21,8 @@
     "simple-lru-cache": "0.0.2"
   },
   "devDependencies": {
+    "mocha": "^2.2.1",
+    "should": "^5.2.0", 
     "test-machinepack-mocha": "^0.2.2"
   },
   "machinepack": {
