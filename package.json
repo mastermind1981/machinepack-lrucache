@@ -1,0 +1,36 @@
+{
+  "name": "machinepack-lrucache",
+  "version": "1.0.0",
+  "description": "Work with lRUCache.",
+  "scripts": {
+    "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mastermind1981/machinepack-lrucache.git"
+  },
+  "keywords": [
+    "LRUCache",
+    "machines",
+    "machinepack"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "machine": "^3.0.0",
+    "simple-lru-cache": "0.0.2"
+  },
+  "devDependencies": {
+    "test-machinepack-mocha": "^0.2.2"
+  },
+  "machinepack": {
+    "friendlyName": "LRUCache",
+    "machineDir": "machines/",
+    "machines": [
+      "set",
+      "get",
+      "clear",
+      "remove"
+    ]
+  }
+}
