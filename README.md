@@ -8,7 +8,7 @@
 
 A Cache with a least recentyl used stragey: the cache has a maximum size of capacity when the maximum size is reached and a new item is added the least recently used object is removed.
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-lrucache.svg)](http://badge.fury.io/js/machinepack-lrucache) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-lrucache.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-lrucache)
+## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-lrucache.svg)](http://badge.fury.io/js/machinepack-lrucache) [![Build Status](https://travis-ci.org/mastermind1981/machinepack-lrucache.png?branch=master)](https://travis-ci.org/mastermind1981/machinepack-lrucache)
 
 ```sh
 $ npm install machinepack-lrucache
