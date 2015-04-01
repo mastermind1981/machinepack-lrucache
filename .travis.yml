@@ -8,6 +8,3 @@ node_js:
 branches:
   only:
     - master
-
-after_install:
-  - mocha tests/test.js
