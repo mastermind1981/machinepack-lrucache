@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Work with lRUCache.",
   "scripts": {
-    "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
+    "test": "mocha tests/test.js"
   },
   "repository": {
     "type": "git",
